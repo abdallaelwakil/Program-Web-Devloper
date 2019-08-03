@@ -26,3 +26,8 @@ https://desktop.github.com/
 ### Git 
 #####  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
 https://git-scm.com/
+
+### Laravel
+##### The PHP Framework For Web Artisans
+
+https://laravel.com/
