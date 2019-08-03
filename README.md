@@ -23,3 +23,6 @@ https://cmder.net/
 #####  Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize. 
 https://desktop.github.com/
 
+### Git 
+#####  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+https://git-scm.com/
