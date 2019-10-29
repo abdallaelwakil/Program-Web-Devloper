@@ -4,6 +4,16 @@ All programs needed by web developer
 ### Visual Studio Code 
 ##### Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free
 https://code.visualstudio.com/
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension EditorConfig.EditorConfig
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension idleberg.icon-fonts
+code --install-extension oderwat.indent-rainbow
+code --install-extension PKief.material-icon-theme
+code --install-extension pnp.polacode
 
 ### XAMPP Apache
 ##### XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
