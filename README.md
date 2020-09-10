@@ -4,16 +4,27 @@ All programs needed by web developer
 ### Visual Studio Code 
 ##### Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free
 https://code.visualstudio.com/
-code --install-extension bmewburn.vscode-intelephense-client
-code --install-extension christian-kohler.path-intellisense
-code --install-extension CoenraadS.bracket-pair-colorizer
-code --install-extension EditorConfig.EditorConfig
+code --install-extension CoenraadS.bracket-pair-colorizer-2
+code --install-extension ecmel.vscode-html-css
+code --install-extension emmanuelbeziat.vscode-great-icons       
+code --install-extension Equinusocio.vsc-community-material-theme
+code --install-extension Equinusocio.vsc-material-theme
+code --install-extension equinusocio.vsc-material-theme-icons    
 code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
-code --install-extension idleberg.icon-fonts
-code --install-extension oderwat.indent-rainbow
+code --install-extension HookyQR.beautify
+code --install-extension kokororin.vscode-phpfmt
+code --install-extension lonefy.vscode-JS-CSS-HTML-formatter
+code --install-extension mrmlnc.vscode-autoprefixer
+code --install-extension ms-mssql.mssql
+code --install-extension naumovs.color-highlight
+code --install-extension ntb.theme-symfony-dark
+code --install-extension octref.vetur
 code --install-extension PKief.material-icon-theme
-code --install-extension pnp.polacode
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension ritwickdey.LiveServer
+code --install-extension xabikos.JavaScriptSnippets
 
 ### XAMPP Apache
 ##### XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
