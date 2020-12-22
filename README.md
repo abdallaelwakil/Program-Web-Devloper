@@ -30,6 +30,19 @@ code --install-extension xabikos.JavaScriptSnippets
 ##### XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
 https://www.apachefriends.org/index.html
 
+### XAMPP Apache setting
+Add this line to xampp\phpmyadmin\config.inc.php
+
+$cfg['ExecTimeLimit'] = 6000;
+And Change xampp\php\php.ini to
+
+post_max_size = 750M 
+upload_max_filesize = 750M   
+max_execution_time = 5000
+max_input_time = 5000
+memory_limit = 1000M
+
+
 ### Composer 
 ##### Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.
 https://getcomposer.org/download/
